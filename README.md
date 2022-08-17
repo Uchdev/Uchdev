@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Uchdev
 - 👀 I’m interested in web3 and the metaverse
 - 🌱 I’m currently learning frontend
-- 💞️ I’m looking to collaborate on web3 projects a frontend dev
+- 💞️ I’m looking to collaborate on web3 projects as a frontend dev
 - 📫 How to reach me uchefestusmac@gmail.com
 
 <!---
